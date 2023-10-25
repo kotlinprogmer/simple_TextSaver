@@ -8,7 +8,9 @@
     <string name="dunijet">Dunijet</string>
     <string name="create_an_account">Create an account</string>
     <string name="click_here">click here</string>
-<!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_nummber">Enter Your Nummber</string>
+    <string name="i_have_an_account">i have an account</string>
+
 
 </resources>

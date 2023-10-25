@@ -8,5 +8,7 @@
     <string name="dunijet">دانیجت</string>
     <string name="create_an_account">ساخت حساب کاربری</string>
     <string name="click_here">اینجا کلیک کنید</string>
-
+    <string name="enter_your_email">ایمیل خود را وارد کنید</string>
+    <string name="enter_your_nummber">تلفن خود را وارد کنید</string>
+    <string name="i_have_an_account">من یک حساب کاربری دارم</string>
 </resources>
